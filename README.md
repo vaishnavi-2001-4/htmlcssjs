@@ -1,3 +1,3 @@
 # htmlcssjs
-assignments
-module 2 assignment
+assignments answers
+all assignments answers in this repository
